@@ -20,8 +20,8 @@ url: http://aronbordin.com/neo-hpstr-jekyll-theme
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Projects'
-    url: '/tags'
+#  - title: 'Projects'
+#    url: '/tags'
   - title: 'About'
     url: '/about'
   - title: 'Contact'
@@ -40,9 +40,9 @@ menu:
 # Owner/author information
 owner:
   name:           Jade Dhangwattanotai
-  site:           http://aronbordin.com
+  site:           http://jadedhang.com
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Thank you for visiting my website!"
   email:          jadedh@bu.edu
   # Twitter nick for use in Twitter cards and follow button.
   twitter: #aron_bordin # if no twitter in this config, the twitter follow button will be removed
